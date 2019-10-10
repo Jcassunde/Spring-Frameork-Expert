@@ -15,5 +15,6 @@
 		
 		<java.version>1.8</java.version>
 		<maven-compiler-pluging.version>3.2</maven-compiler-pluging.version>
+		
 	</properties>
 </project>
